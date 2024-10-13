@@ -2,7 +2,7 @@
 
 ## Description
 
-This Python code (with pseudocode provided in PseudocodeFWilks.md) addresses the process used in the **F-Wilks' Lambda** method, as described in the paper:
+This Python code (with pseudocode provided in [PseudocodeFWilks.md](PseudocodeFWilks.md)) addresses the process used in the **F-Wilks' Lambda** method, as described in the paper:
 - [F-Wilks' Lambda: A Hybrid Multivariate Descriptor to Enhance Feature Selection in Machine Learning Algorithms over a Priori Evaluation](link).
 
 The code is designed in Python to perform multivariate analyses (MANOVA) and to utilize machine learning methods. The paper also employs techniques such as Design of Experiments (DOE) and multiobjective optimization (MO). The extraction of variables was based on commonly used files extracted from the [UCI Machine Learning repository](https://archive.ics.uci.edu/), and the results found can be verified in the provided spreadsheets.
