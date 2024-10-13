@@ -5,7 +5,7 @@
 This Python code (with pseudocode provided in PseudocodeFWilks.md) addresses the process used in the F-Wilks' Lambda method, as described in the paper:
 - [F-Wilks' Lambda: A Hybrid Multivariate Descriptor to Enhance Feature Selection in Machine Learning Algorithms over a Priori Evaluation](link).
 
-The code is designed in Python to perform multivariate analyses (MANOVA) and to utilize machine learning methods. The paper also employs techniques such as Design of Experiments (DOE) and multiobjective optimization (MO). The extraction of variables was based on commonly used files extracted from the UCI Machine Learning repository (https://archive.ics.uci.edu/), and the results found can be verified in the provided spreadsheets.
+The code is designed in Python to perform multivariate analyses (MANOVA) and to utilize machine learning methods. The paper also employs techniques such as Design of Experiments (DOE) and multiobjective optimization (MO). The extraction of variables was based on commonly used files extracted from the [UCI Machine Learning repository](https://archive.ics.uci.edu/), and the results found can be verified in the provided spreadsheets.
 
 The code is designed to execute all functions using Python, allowing users to work with their own datasets; however, the dataset used in the paper is also provided. This dataset was created from a Design of Experiments (DOE) using responses generated through Computational Fluid Dynamics (CFD). The extraction of latent variables was performed with Principal Components Factor Analysis (PCFA), and the multiobjective optimization was done with Normal Boundary Intersection (NBI), while the metrics for evaluating the responses used in the paper were Shannon Entropy (S) and Generalized Distance (GD).
 
@@ -24,15 +24,15 @@ The main goal is to allow users to execute the F-Wilks' Lambda process in Python
 The available Excel files are listed below.
 
 1. **Original Datasets**  
-   ![Original_Datasets.xlsx](Original_Datasets.xlsx)  
-   *Classification datasets extracted from UCI Machine Learning (https://archive.ics.uci.edu/).*
+   [Original_Datasets.xlsx](Original_Datasets.xlsx)  
+   *Classification datasets extracted from the UCI Machine Learning repository.*
 
 2. **Factor Datasets**  
-   ![Factor_Datasets.xlsx](Factor_Datasets.xlsx)  
+   [Factor_Datasets.xlsx](Factor_Datasets.xlsx)  
    *Datasets with varimax factor scores (obtained from the original data) and the classes.*
 
 3. **Results Cases**  
-   ![Results_Cases.xlsx](Results_Cases.xlsx)  
+   [Results_Cases.xlsx](Results_Cases.xlsx)  
    *Design, MANOVA Statistics, ML Evaluation Metrics, correlations between MANOVA and ML, verification of results.*
 
 ## Contact
