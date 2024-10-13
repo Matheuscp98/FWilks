@@ -2,23 +2,22 @@
 
 ## Description
 
-This Python code implements the complete process for the **Varimax Rotated Factor Normal Boundary Intersection (VRF-NBI)** method, as described in the paper:
-- [Nonlinear Multiobjective Optimization of Efficiency Conditions using a CFD-DOE Hybrid Approach: A Practical Application in Centrifugal Fans for Industrial Ovens](link).
+This Python code (with pseudocode provided in PseudocodeFWilks.md) addresses the process used in the F-Wilks' Lambda method, as described in the paper:
+- [F-Wilks' Lambda: A Hybrid Multivariate Descriptor to Enhance Feature Selection in Machine Learning Algorithms over a Priori Evaluation](link).
 
-The code is designed to execute all functions using Python, allowing users to work with their own dataset; however, the dataset used in the paper is also provided. This dataset was created from a Design of Experiments (DOE) using responses generated through Computational Fluid Dynamics (CFD). The extraction of latent variables was performed with Principal Components Factor Analysis (PCFA), and the multiobjective optimization was done with Normal Boundary Intersection (NBI), while the metrics for evaluating the responses used in the paper were Shannon Entropy (S) and Generalized Distance (GD). 
+The code is designed in Python to perform multivariate analyses (MANOVA) and to utilize machine learning methods. The paper also employs techniques such as Design of Experiments (DOE) and multiobjective optimization (MO). The extraction of variables was based on commonly used files extracted from the UCI Machine Learning repository (https://archive.ics.uci.edu/), and the results found can be verified in the provided spreadsheets.
 
-The main goal is to allow users to execute the VRF-NBI process in Python, across all stages of the method. The provided code does not focus on creating graphs but rather on applying the method.
+The code is designed to execute all functions using Python, allowing users to work with their own datasets; however, the dataset used in the paper is also provided. This dataset was created from a Design of Experiments (DOE) using responses generated through Computational Fluid Dynamics (CFD). The extraction of latent variables was performed with Principal Components Factor Analysis (PCFA), and the multiobjective optimization was done with Normal Boundary Intersection (NBI), while the metrics for evaluating the responses used in the paper were Shannon Entropy (S) and Generalized Distance (GD).
 
+The main goal is to allow users to execute the F-Wilks' Lambda process in Python across all stages of the method. The provided code does not focus on creating graphs but rather on applying the method.
 
 ## How to Use
 
 1. Download or clone this repository to your local machine.
-2. Open Jupyter Notebook.
-3. Make sure the libraries are installed on your machine.
-4. Use your own dataset or the one provided by the author.
-5. Run the Python code blocks and obtain the results.
-6. The code includes detailed comments and auxiliary figures to help you understand its functionality.
-
+2. Convert the pseudocode into the programming language of your choice.
+3. Use your own dataset or the datasets provided by the author.
+4. Run the Python code blocks and compare the results obtained using ML with the strategy proposed in the paper.
+5. The code includes detailed comments and spreadsheets to help you understand its functionality.
 
 ## Excel Spreadsheets
 
