@@ -1,4 +1,4 @@
-# 🧮 F-Wilks' Lambda
+# 🤖 F-Wilks' Lambda
 
 ## 📝 Description
 
