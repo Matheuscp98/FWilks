@@ -6,7 +6,7 @@ This Python code (with pseudocode provided in [PseudocodeFWilks.md](PseudocodeFW
 
 The code is designed in Python to perform multivariate analyses (MANOVA) and apply machine learning methods, with a focus on Feature Selection. Techniques such as Design of Experiments (DOE) and multiobjective optimization (MO) are also considered. Variable extraction is based on datasets from the [UCI Machine Learning repository](https://archive.ics.uci.edu/), and all results can be verified in the provided spreadsheets.
 
-**Note:** Related publications are currently under review.
+**Note:** Related papers are currently under review.
 
 The main goal is to allow users to execute the F-Wilks' Lambda process in Python across all stages of the method. The provided code does not focus on creating graphs but rather on applying the method.
 
