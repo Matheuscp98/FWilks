@@ -22,6 +22,14 @@ The main goal is to allow users to execute the F-Wilks' Lambda process in Python
 
 ---
 
+## 📚 Publications
+
+This repository is part of the research study:
+
+-  *(The dataset is from this work. Manuscript currently under review)*
+
+---
+
 ## 📁 Excel Spreadsheets
 
 | File                        | Description                                                                              |
