@@ -2,13 +2,13 @@
 
 ## 📝 Description
 
-This **Python code** (with pseudocode provided in [**PseudocodeFWilks.md**](PseudocodeFWilks.md)) addresses the process used in the **F-Wilks' Lambda** method.
+This **Pseudocode** (with pseudocode provided in [**Pseudocode F-Wilks'**](PseudocodeFWilks.md)) addresses the process used in the **F-Wilks' Lambda** method.
 
 The code is designed in **Python** to perform **Multivariate Analyses of Variance (MANOVA)** and apply **Machine Learning (ML) methods**, with a focus on **Feature Selection (FS)**. Techniques such as **Design of Experiments (DOE)** and **Multiobjective Optimization (MO)** are also considered. Variable extraction is based on datasets from the [**UCI Machine Learning repository**](https://archive.ics.uci.edu/), and all results can be verified in the provided **spreadsheets**.
 
-**Note:** Related papers are currently under review.
-
 The main goal is to allow users to execute the **F-Wilks' Lambda process in Python** across all stages of the method. The provided code does not focus on creating graphs but rather on **applying the method**.
+
+The main goal is to enable users to execute **F-Wilks’ Lambda** process, which was presented in pseudocode, in **Python** or another programming language, covering all the **steps of the method**. The provided code is not focused on generating charts, but rather on understanding and applying the method.
 
 ---
 
@@ -35,7 +35,7 @@ This repository is part of the research study:
 | File | Description |
 |------|-------------|
 | [**Original Datasets**](Original_Datasets.xlsx) | Classification datasets extracted from the [UCI Machine Learning repository](https://archive.ics.uci.edu/). |
-| [**Factor Datasets**](Factor_Datasets.xlsx) | Datasets with varimax factor scores (from the original data) and the classes. |
+| [**Factor Datasets**](Factor_Datasets.xlsx) | Datasets with Varimax Factor Scores (VRF) (from the original data) and the classes. |
 | [**Results Cases**](Results_Cases.xlsx) | Design, MANOVA Statistics, ML Evaluation Metrics, correlations, verification of results. |
 | [**ResultCase (Wine)**](Result_Case_Wine_Complete.xlsx) | Comprehensive analysis of the Wine Case, with cross-validation, data balancing, and feature importance evaluation. |
 
