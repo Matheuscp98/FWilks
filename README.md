@@ -16,7 +16,7 @@ The main goal is to allow users to execute the F-Wilks' Lambda process in Python
 
 This repository is part of the research study:
 
--  *(The dataset is from this work. Manuscript currently under review)*
+-  *The dataset is from this work. Manuscript currently under review*
 
 ---
 
