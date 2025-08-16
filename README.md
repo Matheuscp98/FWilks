@@ -2,7 +2,7 @@
 
 ## 📝 Description
 
-This **Pseudocode** (with pseudocode provided in [**Pseudocode F-Wilks'**](PseudocodeFWilks.md)) addresses the process used in the **F-Wilks' Lambda** method.
+This **Pseudocode** ([**Pseudocode F-Wilks'**](PseudocodeFWilks.md)) addresses the process used in the **F-Wilks' Lambda** method.
 
 The code is designed in **Python** to perform **Multivariate Analyses of Variance (MANOVA)** and apply **Machine Learning (ML) methods**, with a focus on **Feature Selection (FS)**. Techniques such as **Design of Experiments (DOE)** and **Multiobjective Optimization (MO)** are also considered. Variable extraction is based on datasets from the [**UCI Machine Learning repository**](https://archive.ics.uci.edu/), and all results can be verified in the provided **spreadsheets**.
 
