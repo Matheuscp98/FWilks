@@ -30,15 +30,14 @@ This repository is part of the research study:
 
 ---
 
-
 ## 📁 Excel Spreadsheets
 
-| File                        | Description                                                                              |
-|-----------------------------|------------------------------------------------------------------------------------------|
-| **Original_Datasets.xlsx**  | Classification datasets extracted from the [UCI Machine Learning repository](https://archive.ics.uci.edu/). |
-| **Factor_Datasets.xlsx**    | Datasets with varimax factor scores (from the original data) and the classes.            |
-| **Results_Cases.xlsx**      | Design, MANOVA Statistics, ML Evaluation Metrics, correlations, verification of results. |
-| **Result_Case_Wine_Complete.xlsx** | Comprehensive analysis of the Wine Case, with cross-validation, data balancing, and feature importance evaluation. |
+| File | Description |
+|------|-------------|
+| [**Original_Datasets.xlsx**](Original_Datasets.xlsx) | Classification datasets extracted from the [UCI Machine Learning repository](https://archive.ics.uci.edu/). |
+| [**Factor_Datasets.xlsx**](Factor_Datasets.xlsx) | Datasets with varimax factor scores (from the original data) and the classes. |
+| [**Results_Cases.xlsx**](Results_Cases.xlsx) | Design, MANOVA Statistics, ML Evaluation Metrics, correlations, verification of results. |
+| [**Result_Case_Wine_Complete.xlsx**](Result_Case_Wine_Complete.xlsx) | Comprehensive analysis of the Wine Case, with cross-validation, data balancing, and feature importance evaluation. |
 
 ---
 
