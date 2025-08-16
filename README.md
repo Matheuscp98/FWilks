@@ -2,13 +2,13 @@
 
 ## 📝 Description
 
-This Python code (with pseudocode provided in [PseudocodeFWilks.md](PseudocodeFWilks.md)) addresses the process used in the **F-Wilks' Lambda** method.
+This **Python code** (with pseudocode provided in [**PseudocodeFWilks.md**](PseudocodeFWilks.md)) addresses the process used in the **F-Wilks' Lambda** method.
 
-The code is designed in Python to perform multivariate analyses (MANOVA) and apply machine learning methods, with a focus on Feature Selection. Techniques such as Design of Experiments (DOE) and multiobjective optimization (MO) are also considered. Variable extraction is based on datasets from the [UCI Machine Learning repository](https://archive.ics.uci.edu/), and all results can be verified in the provided spreadsheets.
+The code is designed in **Python** to perform **multivariate analyses (MANOVA)** and apply **machine learning methods**, with a focus on **Feature Selection**. Techniques such as **Design of Experiments (DOE)** and **Multiobjective Optimization (MO)** are also considered. Variable extraction is based on datasets from the [**UCI Machine Learning repository**](https://archive.ics.uci.edu/), and all results can be verified in the provided **spreadsheets**.
 
 **Note:** Related papers are currently under review.
 
-The main goal is to allow users to execute the F-Wilks' Lambda process in Python across all stages of the method. The provided code does not focus on creating graphs but rather on applying the method.
+The main goal is to allow users to execute the **F-Wilks' Lambda process in Python** across all stages of the method. The provided code does not focus on creating graphs but rather on **applying the method**.
 
 ---
 
@@ -22,11 +22,11 @@ This repository is part of the research study:
 
 ## 🛠️ How to Use
 
-1. **Clone or download** this repository to your local machine.
-2. Convert the pseudocode into the programming language of your choice.
-3. Use your own dataset or the datasets provided by the author.
-4. Run the Python code blocks and compare the results obtained using ML with the proposed strategy.
-5. The code includes detailed comments and spreadsheets to help you understand its functionality.
+1. **Clone or download** this repository to your local machine.  
+2. **Convert** the pseudocode into the programming language of your choice.  
+3. **Use** your own dataset or the datasets provided by the author.  
+4. **Run** the Python code blocks and **compare the results** obtained using ML with the proposed strategy.  
+5. The code includes **detailed comments** and **spreadsheets** to help you understand its functionality.
 
 ---
 
