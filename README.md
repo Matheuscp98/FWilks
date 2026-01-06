@@ -21,6 +21,19 @@ In addition to ongoing manuscripts under review, the following public papers are
 
 ---
 
+## 🛡️ Intellectual Property & Patent Registration
+
+This repository is associated with a **computer program registration** filed with the **Instituto Nacional da Propriedade Industrial (INPI)**, in **Brazil**.
+
+**Registration details:**
+
+- **Title:**  Multivariate Factor Score
+- **Registration Number:** BR512025005967-1
+- **Type:** Computer Program Registration
+- **Jurisdiction:** Brazil
+
+---
+
 ## 🛠️ How to Use
 
 1. **Clone or download** this repository to your local machine.  
