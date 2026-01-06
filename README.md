@@ -14,9 +14,10 @@ The main goal is to enable users to execute **F-Wilks’ Lambda** process, which
 
 ## 📚 Publications
 
-This repository is part of the research study:
+In addition to ongoing manuscripts under review, the following public papers are already available:
 
--  *Manuscript currently under peer review*
+- *Strategy for Feature Selection in Machine Learning Based on a Prior Evaluation** (*Estratégia para Seleção de Atributos em Machine Learning Baseado em uma avaliação a priori*)  
+  [Read here](https://www.abepro.org.br/biblioteca/TN_ST_426_2087_51297.pdf)
 
 ---
 
