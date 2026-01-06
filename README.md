@@ -16,7 +16,7 @@ The main goal is to enable users to execute **F-Wilks’ Lambda** process, which
 
 In addition to ongoing manuscripts under review, the following public papers are already available:
 
-- *Strategy for Feature Selection in Machine Learning Based on a Prior Evaluation** (*Estratégia para Seleção de Atributos em Machine Learning Baseado em uma avaliação a priori*)  
+- **Strategy for Feature Selection in Machine Learning Based on a Prior Evaluation** (*Estratégia para Seleção de Atributos em Machine Learning Baseado em uma avaliação a priori*)  
   [Read here](https://www.even3.com.br/anais/3-science-business-connection/1087042-estrategia-para-selecao-de-atributos-em-machine-learning-baseado-em-uma-avaliacao-a-priori/)
 
 ---
