@@ -16,9 +16,12 @@ The main goal is to enable users to execute **F-Wilks’ Lambda** process, which
 
 In addition to ongoing manuscripts under review, the following public papers are already available:
 
+- **Optimal Feature Selection For Machine Learning Algorithms Using F-Wilks** (*Seleção Ótima De Características Para Algoritmos De Aprendizado De Máquina Com O F-Wilks*)  
+  [Read here](https://www.even3.com.br/anais/iepg-summit-2025/1342624-selecao-otima-de-caracteristicas-para-algoritmos-de-aprendizado-de-maquina-com-o-f-wilks/))
 - **Strategy for Feature Selection in Machine Learning Based on a Prior Evaluation** (*Estratégia para Seleção de Atributos em Machine Learning Baseado em uma avaliação a priori*)  
   [Read here](https://www.even3.com.br/anais/3-science-business-connection/1087042-estrategia-para-selecao-de-atributos-em-machine-learning-baseado-em-uma-avaliacao-a-priori/)
 
+  
 ---
 
 ## 🛡️ Intellectual Property & Patent Registration
